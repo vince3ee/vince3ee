@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vince3ee
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Neural Network
-- 💞️ I’m looking to collaborate on Some dude knows Neural Network
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me Just pm
 
 <!---
